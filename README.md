@@ -1,4 +1,4 @@
-# Universal Historical Equipment Module for JanitorAI
+# Universal Historical Equipment Module for JanitorAI and Installment Guide
 
 A reusable, character-agnostic JanitorAI Script providing context-sensitive knowledge of historical, penal, reconstructed, and famous disputed/legendary punishment and torture equipment.
 
